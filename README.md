@@ -1,6 +1,9 @@
 # Face Mask Detection
   This repository contains a project that detects whether a person is wearing a mask or not using a Convolutional Neural Network (CNN) built with TensorFlow and 
   Keras. The dataset is sourced from Kaggle.
+# Test Images output
+  ![image](https://github.com/user-attachments/assets/4c3b2d5b-3a96-4792-8fac-598fb87e7b9c)
+  ![image](https://github.com/user-attachments/assets/c9b2600e-3735-484c-b9fa-c6d38879f946)
 
 ## Getting Started
 
